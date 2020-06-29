@@ -41,7 +41,7 @@ Equipe : **Groupe 25**
         
 **Web marketers :**
     
-   + Ibrahima
+   + Ibrahima Diop (Designer)
         
    + Ndeye Fatou Ndiaye
         
