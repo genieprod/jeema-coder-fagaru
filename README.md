@@ -30,7 +30,6 @@
 
 Equipe : **Groupe 25**
 
-  Participants :
     
   **Devellopeurs :**
         
