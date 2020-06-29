@@ -2,13 +2,13 @@
 
 **Projet incomplet**
 
-**Video** : https://mega.nz/file/vEwQja5J#bkfdCDYI_SOctz-9YUHuATT4N5UvVfFmKdO6laoTrfA
+**Video** : [lien](https://mega.nz/file/vEwQja5J#bkfdCDYI_SOctz-9YUHuATT4N5UvVfFmKdO6laoTrfA)
 
-**Formulaire** : https://docs.google.com/forms/d/e/1FAIpQLSdWD4o-epTMj6uHX9IrtFe_DqX-NAkRDq9HWCxjnBL1VQWupQ/viewform
+**Formulaire** : [lien](https://docs.google.com/forms/d/e/1FAIpQLSdWD4o-epTMj6uHX9IrtFe_DqX-NAkRDq9HWCxjnBL1VQWupQ/viewform)
 
-**Plan de communication** : https://docs.google.com/spreadsheets/d/1e9gkSgg5ro2pXULzgpPGTuQn5IVjb52I5d0Tw1yE150/edit?usp=sharing
+**Plan de communication** : [lien](https://docs.google.com/spreadsheets/d/1e9gkSgg5ro2pXULzgpPGTuQn5IVjb52I5d0Tw1yE150/edit?usp=sharing)
 
-**Pitch deck** : https://mega.nz/file/PYwBBCaI#vHK7SHQb5RJJK5iBdJBdQi_aZCjQTg_N2ifHgVlsU6Y
+**Pitch deck** : [lien](https://mega.nz/file/PYwBBCaI#vHK7SHQb5RJJK5iBdJBdQi_aZCjQTg_N2ifHgVlsU6Y)
 
 **Backlogs**
 
