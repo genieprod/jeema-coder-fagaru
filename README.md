@@ -34,19 +34,19 @@ Equipe : **Groupe 25**
     
   Devellopeur : 
         
-   **Baye Dame**
+   *Baye Dame
         
-   **Habib Diedhiou**
+   *Habib Diedhiou
         
-   **Yamar Diop**
+   *Yamar Diop
         
 Web marketer :
     
-   **Ibrahima**
+   *Ibrahima*
         
-   **Ndeye Fatou Ndiaye**
+   *Ndeye Fatou Ndiaye
         
-   **Omar Ndiaye**
+   *Omar Ndiaye
 
 
 On vous remercie de nous avoir donner la chance de vivre ces trois jours.
