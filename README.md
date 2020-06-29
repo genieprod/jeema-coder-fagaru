@@ -35,7 +35,7 @@ Equipe : [**Groupe 25**](https://chat.whatsapp.com/DWWaXy0rMlF7t9EOt1S9Up)
         
    + Baye Dame
         
-   + Habib Diedhiou
+   + Habibou Diedhiou
         
    + Yamar Diop
         
