@@ -28,7 +28,7 @@
       5- On envisage de faire en sorte aussi qu'il detecte les livreur en proche 
       pour lui aider limité ses déplacements
 
-Equipe : **Groupe 25**
+Equipe : [**Groupe 25**](https://chat.whatsapp.com/DWWaXy0rMlF7t9EOt1S9Up)
 
     
   **Devellopeurs :**
