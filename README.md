@@ -32,7 +32,7 @@ Equipe : **Groupe 25**
 
   Participants :
     
-  **Devellopeur :**
+  **Devellopeurs :**
         
    + Baye Dame
         
@@ -40,7 +40,7 @@ Equipe : **Groupe 25**
         
    + Yamar Diop
         
-**Web marketer :**
+**Web marketers :**
     
    + Ibrahima
         
