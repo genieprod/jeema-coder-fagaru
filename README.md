@@ -32,7 +32,7 @@ Equipe : **Groupe 25**
 
   Participants :
     
-  **Devellopeur : **
+  **Devellopeur :**
         
    + Baye Dame
         
