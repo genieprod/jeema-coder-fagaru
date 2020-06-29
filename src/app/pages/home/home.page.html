@@ -1,0 +1,30 @@
+<!-- home.page.html -->
+<ion-header [translucent]="true">
+
+  <ion-toolbar color="warning">
+    
+    <ion-title slot="end"></ion-title>
+  </ion-toolbar>
+
+</ion-header>
+
+<ion-content [fullscreen]="true">
+    <ion-toolbar color="warning">
+        <ion-button (click)="loadMap()" shape="round" color="success">
+          <ion-icon slot="start" name="locate"></ion-icon>
+          Me Signaler
+        </ion-button>
+        <ion-title slot="end">
+          <ion-button (click)="offMap()" shape="round" color="light">
+            Desactiver
+          </ion-button>
+        </ion-title>
+      </ion-toolbar>
+
+  <div class="map-wrapper">
+    <div id="map_center">
+      <img src="assets/icon/location-marker.png" />
+    </div>
+    <div #map id="map"></div>
+  </div>
+</ion-content>
