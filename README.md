@@ -25,14 +25,22 @@ Pitch deck : https://mega.nz/file/PYwBBCaI#vHK7SHQb5RJJK5iBdJBdQi_aZCjQTg_N2ifHg
 Equipe : **Groupe 25**
 
   participants :
+  
     devellopeur : 
+    
         **Baye Dame**
+        
         **Habib Diedhiou**
+        
         **Yamar Diop**
+        
     web marketer :
+    
         **Ibrahima**
+        
         **Ndeye Fatou Ndiaye**
+        
         **Omar Ndiaye**
 
 
-On vous remercie de nous donner la chance de vivre ces trois jours.
+On vous remercie de nous avoir donner la chance de vivre ces trois jours.
