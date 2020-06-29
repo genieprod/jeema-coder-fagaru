@@ -34,7 +34,7 @@ Equipe : **Groupe 25**
     
   Devellopeur : 
         
-   ..*Baye Dame
+   + Baye Dame
         
    ..*Habib Diedhiou
         
