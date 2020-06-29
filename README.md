@@ -1,1 +1,34 @@
 # jeema-coder-fagaru
+
+Projet incomplet
+
+Video : https://mega.nz/file/vEwQja5J#bkfdCDYI_SOctz-9YUHuATT4N5UvVfFmKdO6laoTrfA
+
+Formulaire : https://docs.google.com/forms/d/e/1FAIpQLSdWD4o-epTMj6uHX9IrtFe_DqX-NAkRDq9HWCxjnBL1VQWupQ/viewform
+
+**Backlogs**
+
+1- on charge la carte ( avec google maps) et intégré deux boutons, l'un permet à l'utilisateur positif de partager sa position et l'autre pour qu'il le désactive en cas d'inactivité
+
+2- on crée une base de données qui permet de recueillir en temps réel les positions de positifs et de cette façon les autres utilisateurs non atteints peuvent y accéder pour recevoir les notifications quand le danger est dans un rayon de 1km
+
+3- on ajoute des fonctionnalité qui permet de rappeler l'utilisateur d'utiliser les masques et gel lorsqu'il commence à se déplacer.
+
+4- et une fonctionnalité pour les actualités et statistiques de la maladie
+
+5- On envisage de faire en sorte aussi qu'il detecte les livreur en proche pour lui aider limité ses déplacements
+
+Equipe : **Groupe 25**
+
+  participants :
+    devellopeur : 
+        **Baye Dame**
+        **Habib Diedhiou**
+        **Yamar Diop**
+    web marketer :
+        **Ibrahima**
+        **Ndeye Fatou Ndiaye**
+        **Omar Ndiaye**
+
+
+On vous remercie de nous donner la chance de vivre ces trois jours.
